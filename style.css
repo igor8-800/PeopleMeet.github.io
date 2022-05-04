@@ -179,3 +179,34 @@ h6 {
 	background: rgba(255, 255, 255, 0.137);
 	
 }
+
+
+@media (max-width: 500px) {
+
+
+	.title__containrt{
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		text-align: center;
+		text-align: center;
+	
+	}
+	.title__text__1{
+		font-size: 24px;
+	
+	}
+	.title__text__2{
+		font-size: 24px;
+	
+	
+	}
+	.info_object_1{
+		font-size: 22px;
+	
+	
+	}
+	.info_object_2{
+		font-size: 22px;
+	}
+}
